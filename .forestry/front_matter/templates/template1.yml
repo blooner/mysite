@@ -1,0 +1,9 @@
+---
+label: Template1
+hide_body: false
+display_field: textarea
+fields:
+- type: text
+- type: textarea
+  name: textarea
+  label: Textarea
