@@ -7,4 +7,5 @@ fields:
   name: textarea
   label: Textarea
 pages:
+- content/blog/blog3.md
 - content/blog/blog1.md
