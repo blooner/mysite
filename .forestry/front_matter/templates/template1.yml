@@ -6,3 +6,5 @@ fields:
 - type: textarea
   name: textarea
   label: Textarea
+pages:
+- content/blog/blog1.md
