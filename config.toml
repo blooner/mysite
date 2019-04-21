@@ -1,0 +1,4 @@
+baseURL = "https://blooner.github.io/mysite/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "mediumish-gohugo-theme"
